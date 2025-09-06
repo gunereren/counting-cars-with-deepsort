@@ -1,0 +1,15 @@
+Avg FPS: 8.02   Model: yolov8n.pt   Resolution:640x360   Counted Cars: 22   Conf: 0.30
+Avg FPS: 7.84   Model: yolov8n.pt   Resolution:1280x720   Counted Cars: 16   Conf: 0.30
+Avg FPS: 4.80   Model: yolov8s.pt   Resolution:1280x720   Counted Cars: 13   Conf: 0.30
+Avg FPS: 4.81   Model: yolov8s.pt   Resolution:640x360   Counted Cars: 21   Conf: 0.30
+Avg FPS: 7.36   Model: yolov8n.pt   Resolution:640x360   Counted Cars: 36   Conf: 0.30          hw2
+Avg FPS: 40.28   Model: yolov8n.pt   Resolution:640x360   Counted Cars: 36   Conf: 0.30         after cuda
+Avg FPS: 32.37   Model: yolov8n.pt   Resolution:1280x720   Counted Cars: 35   Conf: 0.30
+Avg FPS: 31.84   Model: yolov8n.pt   Resolution:1280x720   Counted Cars: 37   Conf: 0.30
+Avg FPS: 32.22   Model: yolov8n.pt   Resolution:1280x720   Counted Cars: 37   Conf: 0.30
+Avg FPS: 33.54   Model: yolov8n.pt   Resolution:1280x720   Counted Cars: 36   Conf: 0.40
+Avg FPS: 36.33   Model: yolov8n.pt   Resolution:1280x720   Counted Cars: 37   Conf: 0.30
+Avg FPS: 34.39   Model: yolov8n.pt   Resolution:1280x720   Counted Cars: 34   Conf: 0.30
+Avg FPS: 32.19   Model: yolov8n.pt   Resolution:1280x720   Counted Cars: 34   Conf: 0.30
+Avg FPS: 36.00   Model: yolov8n.pt   Resolution:1280x720   Counted Cars: 34   Conf: 0.30
+Avg FPS: 37.29   Model: yolov8n.pt   Resolution:1280x720   Counted Cars: 34
